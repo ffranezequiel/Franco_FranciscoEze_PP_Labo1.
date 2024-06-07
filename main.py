@@ -4,6 +4,8 @@ import csv
 
 
 def menu_principal():
+    
+    #INICIALIZO LA FUNCION PARA QUE NO HAYA ERRORES Y QUE ESTE SIN DECLARAR
     lista_servicios = []
 
     while True:
